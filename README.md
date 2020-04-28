@@ -1,1 +1,2 @@
-"# Smart_House"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/nancy9taya/Smart_House.git git push -u origin master
+It is smiple design of smart house design include (keypad,lcd,motor,arduino,fan,temp sensor)
+drag and drop the design filr in protues then enter the .hex of the arduino code to run the the project
